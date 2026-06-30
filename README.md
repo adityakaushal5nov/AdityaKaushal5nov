@@ -1,4 +1,4 @@
-# Hi, I'm [Aditya Kaushal] 👋
+# Hi, I'm Aditya Kaushal 👋
 
 ### Senior Software Engineer | Systems & Integrations Architect
 I specialize in building highly resilient, event-driven backend systems, cloud architectures, and scalable enterprise integrations. I focus on optimizing data pipelines, decoupling complex workflows, and ensuring high-availability production environments.
@@ -46,6 +46,6 @@ I specialize in building highly resilient, event-driven backend systems, cloud a
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [/in/yourusername](https://linkedin.com/in/yourusername)
+- **LinkedIn:** [/in/adityakaushal5](https://linkedin.com/in/adityakaushal5)
 - **Technical Writing / Blog:** [yourwebsite.com](https://yourwebsite.com)
-- **Email:** [your.email@domain.com](mailto:your.email@domain.com)
+- **Email:** [kaushal.aditya5nov@gmail.com](mailto:your.email@domain.com)
